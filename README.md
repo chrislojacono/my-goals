@@ -1,3 +1,3 @@
 My Goals
 
-Week 1: Learned Git and Github, Learned Zsh and Visual Studio Code
+Week 1: Learned Git and Github, the Terminal, Zsh and Visual Studio Code
